@@ -1,0 +1,19 @@
+body{
+    background-color: #EBEBEB;
+}
+.Cuadro {
+    float: inline-start;
+    width: 100%;
+}
+
+.Cuadros {
+    margin: 50px;
+}
+
+.Individual {
+    align-items: center;
+    border: 10px solid rgb(88, 88, 88);
+    margin: 5px;
+
+}
+

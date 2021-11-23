@@ -1,0 +1,26 @@
+body {
+    margin: 15px;
+    background-color: #b8c6e0;
+
+}
+
+.card {
+    margin: 15px;
+    align-items: center;
+    display: flex !important; 
+    flex-wrap: wrap;
+}
+
+.card:hover {
+    background-color: #00ab66;
+    color: #fff;
+   
+    
+}
+
+.box {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+

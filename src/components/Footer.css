@@ -1,0 +1,21 @@
+.page-footer {
+    background-color: #b4b4b4;
+    color: #fff;
+}
+
+.logo {
+    margin-bottom: 10px;
+}
+
+.logo:hover {
+    transform: scale(1.3); 
+}
+
+.whatsapp {
+    color: #fff;
+}
+
+.whatsapp:hover {
+    transform: scale(1.5);
+    box-shadow: 0 0 15px #00ac1d;
+}

@@ -1,0 +1,15 @@
+.horizontal2 {
+    margin: 15px;
+    margin-bottom: 50px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+
+    
+
+}
+
+.horizontal2:hover {
+    transform: scale(1);
+    box-shadow: 0 0 15px #40ff10; 
+    
+}

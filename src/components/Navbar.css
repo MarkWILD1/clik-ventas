@@ -1,0 +1,13 @@
+
+
+#logo:hover {
+    transform: scale(1.2);
+    transition: 0.3s ease-in-out;
+}
+
+h3 {
+    background: -webkit-linear-gradient(rgb(0, 214, 11), rgb(9, 78, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
