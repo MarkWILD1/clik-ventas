@@ -19,7 +19,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "yarn run build && clikventas.com > ./build/CNAME ",
+    "predeploy": "yarn run build && echo clikventas.com > ./build/CNAME ",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
