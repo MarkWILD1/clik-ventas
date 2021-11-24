@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/clik-ventas/static/css/main.a31615ab.chunk.css",
+    "main.js": "/clik-ventas/static/js/main.9d87a8d9.chunk.js",
+    "main.js.map": "/clik-ventas/static/js/main.9d87a8d9.chunk.js.map",
+    "runtime-main.js": "/clik-ventas/static/js/runtime-main.19b49d0c.js",
+    "runtime-main.js.map": "/clik-ventas/static/js/runtime-main.19b49d0c.js.map",
+    "static/css/2.4659568d.chunk.css": "/clik-ventas/static/css/2.4659568d.chunk.css",
+    "static/js/2.75c2454e.chunk.js": "/clik-ventas/static/js/2.75c2454e.chunk.js",
+    "static/js/2.75c2454e.chunk.js.map": "/clik-ventas/static/js/2.75c2454e.chunk.js.map",
+    "static/js/3.3cf362a6.chunk.js": "/clik-ventas/static/js/3.3cf362a6.chunk.js",
+    "static/js/3.3cf362a6.chunk.js.map": "/clik-ventas/static/js/3.3cf362a6.chunk.js.map",
+    "index.html": "/clik-ventas/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/clik-ventas/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.a31615ab.chunk.css.map": "/clik-ventas/static/css/main.a31615ab.chunk.css.map",
+    "static/js/2.75c2454e.chunk.js.LICENSE.txt": "/clik-ventas/static/js/2.75c2454e.chunk.js.LICENSE.txt",
+    "static/media/2_00000.77e6da13.jpg": "/clik-ventas/static/media/2_00000.77e6da13.jpg",
+    "static/media/3_00000.0f7fa87e.jpg": "/clik-ventas/static/media/3_00000.0f7fa87e.jpg",
+    "static/media/horizontal.f363e162.jpg": "/clik-ventas/static/media/horizontal.f363e162.jpg",
+    "static/media/logo-rivera_00000.bbfe7399.png": "/clik-ventas/static/media/logo-rivera_00000.bbfe7399.png",
+    "static/media/logo2_00000.513ecd46.png": "/clik-ventas/static/media/logo2_00000.513ecd46.png",
+    "static/media/portada Facebook_00000.e4677498.jpg": "/clik-ventas/static/media/portada Facebook_00000.e4677498.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b49d0c.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.75c2454e.chunk.js",
+    "static/css/main.a31615ab.chunk.css",
+    "static/js/main.9d87a8d9.chunk.js"
+  ]
+}
