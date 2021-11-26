@@ -1,31 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.a31615ab.chunk.css",
-    "main.js": "/static/js/main.0a3d961b.chunk.js",
-    "main.js.map": "/static/js/main.0a3d961b.chunk.js.map",
+    "main.css": "/static/css/main.09a42db0.chunk.css",
+    "main.js": "/static/js/main.a7ece52a.chunk.js",
+    "main.js.map": "/static/js/main.a7ece52a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc4ec7d0.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc4ec7d0.js.map",
     "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
-    "static/js/2.75c2454e.chunk.js": "/static/js/2.75c2454e.chunk.js",
-    "static/js/2.75c2454e.chunk.js.map": "/static/js/2.75c2454e.chunk.js.map",
+    "static/js/2.081c02b3.chunk.js": "/static/js/2.081c02b3.chunk.js",
+    "static/js/2.081c02b3.chunk.js.map": "/static/js/2.081c02b3.chunk.js.map",
     "static/js/3.3cf362a6.chunk.js": "/static/js/3.3cf362a6.chunk.js",
     "static/js/3.3cf362a6.chunk.js.map": "/static/js/3.3cf362a6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4659568d.chunk.css.map": "/static/css/2.4659568d.chunk.css.map",
-    "static/css/main.a31615ab.chunk.css.map": "/static/css/main.a31615ab.chunk.css.map",
-    "static/js/2.75c2454e.chunk.js.LICENSE.txt": "/static/js/2.75c2454e.chunk.js.LICENSE.txt",
+    "static/css/main.09a42db0.chunk.css.map": "/static/css/main.09a42db0.chunk.css.map",
+    "static/js/2.081c02b3.chunk.js.LICENSE.txt": "/static/js/2.081c02b3.chunk.js.LICENSE.txt",
     "static/media/2_00000.77e6da13.jpg": "/static/media/2_00000.77e6da13.jpg",
     "static/media/3_00000.0f7fa87e.jpg": "/static/media/3_00000.0f7fa87e.jpg",
-    "static/media/horizontal.f363e162.jpg": "/static/media/horizontal.f363e162.jpg",
+    "static/media/Banner22_00000.7dd4362e.jpg": "/static/media/Banner22_00000.7dd4362e.jpg",
+    "static/media/Card1_00000.25461f7f.jpg": "/static/media/Card1_00000.25461f7f.jpg",
+    "static/media/Card2_00000.e3493edb.jpg": "/static/media/Card2_00000.e3493edb.jpg",
+    "static/media/Card3_00000.efa60ce0.jpg": "/static/media/Card3_00000.efa60ce0.jpg",
+    "static/media/Card4_00000.4306be92.jpg": "/static/media/Card4_00000.4306be92.jpg",
+    "static/media/Card5_00000.18f0572a.jpg": "/static/media/Card5_00000.18f0572a.jpg",
+    "static/media/Card6_00000.e96a21d8.jpg": "/static/media/Card6_00000.e96a21d8.jpg",
+    "static/media/b2.0b78a8d2.jpg": "/static/media/b2.0b78a8d2.jpg",
+    "static/media/banner 11.118b784f.jpg": "/static/media/banner 11.118b784f.jpg",
     "static/media/logo-rivera_00000.bbfe7399.png": "/static/media/logo-rivera_00000.bbfe7399.png",
-    "static/media/logo2_00000.513ecd46.png": "/static/media/logo2_00000.513ecd46.png",
-    "static/media/portada Facebook_00000.e4677498.jpg": "/static/media/portada Facebook_00000.e4677498.jpg"
+    "static/media/logo2_00000.513ecd46.png": "/static/media/logo2_00000.513ecd46.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dc4ec7d0.js",
     "static/css/2.4659568d.chunk.css",
-    "static/js/2.75c2454e.chunk.js",
-    "static/css/main.a31615ab.chunk.css",
-    "static/js/main.0a3d961b.chunk.js"
+    "static/js/2.081c02b3.chunk.js",
+    "static/css/main.09a42db0.chunk.css",
+    "static/js/main.a7ece52a.chunk.js"
   ]
 }
