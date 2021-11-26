@@ -24,7 +24,7 @@ const Footer = () => <footer className="page-footer font-small blue pt-4">
     </div>
 
     <div className="footer-copyright text-center py-3">© 2021 Copyright:
-        <a href="https://mdbootstrap.com/"> Du Agencia</a>
+        <a href="https://duagenciadigital.com"> Du Agencia</a>
     </div>
 
 </footer>
