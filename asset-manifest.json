@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.09a42db0.chunk.css",
-    "main.js": "/static/js/main.21f6d76d.chunk.js",
-    "main.js.map": "/static/js/main.21f6d76d.chunk.js.map",
+    "main.js": "/static/js/main.b6da18da.chunk.js",
+    "main.js.map": "/static/js/main.b6da18da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc4ec7d0.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc4ec7d0.js.map",
     "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
@@ -14,7 +14,6 @@
     "static/css/2.4659568d.chunk.css.map": "/static/css/2.4659568d.chunk.css.map",
     "static/css/main.09a42db0.chunk.css.map": "/static/css/main.09a42db0.chunk.css.map",
     "static/js/2.081c02b3.chunk.js.LICENSE.txt": "/static/js/2.081c02b3.chunk.js.LICENSE.txt",
-    "static/media/Banner22_00000.7dd4362e.jpg": "/static/media/Banner22_00000.7dd4362e.jpg",
     "static/media/Card1_00000.25461f7f.jpg": "/static/media/Card1_00000.25461f7f.jpg",
     "static/media/Card2_00000.e3493edb.jpg": "/static/media/Card2_00000.e3493edb.jpg",
     "static/media/Card3_00000.efa60ce0.jpg": "/static/media/Card3_00000.efa60ce0.jpg",
@@ -24,6 +23,7 @@
     "static/media/Explora.5b20d5a0.jpg": "/static/media/Explora.5b20d5a0.jpg",
     "static/media/b2.0b78a8d2.jpg": "/static/media/b2.0b78a8d2.jpg",
     "static/media/banner 11.118b784f.jpg": "/static/media/banner 11.118b784f.jpg",
+    "static/media/constructora.2655d65d.jpg": "/static/media/constructora.2655d65d.jpg",
     "static/media/duagencia.c525c683.jpg": "/static/media/duagencia.c525c683.jpg",
     "static/media/logo-rivera_00000.bbfe7399.png": "/static/media/logo-rivera_00000.bbfe7399.png",
     "static/media/logo2_00000.513ecd46.png": "/static/media/logo2_00000.513ecd46.png"
@@ -33,6 +33,6 @@
     "static/css/2.4659568d.chunk.css",
     "static/js/2.081c02b3.chunk.js",
     "static/css/main.09a42db0.chunk.css",
-    "static/js/main.21f6d76d.chunk.js"
+    "static/js/main.b6da18da.chunk.js"
   ]
 }
