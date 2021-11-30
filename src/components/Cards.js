@@ -1,6 +1,9 @@
 import React, { useEffect } from 'react'
 import { Card, Button, CardGroup} from 'react-bootstrap'
 import './Cards.css'
+import Store1 from '../assets/Cards/Card1_00000.jpg'
+import Store2 from '../assets/Cards/Card2_00000.jpg'
+import Store3 from '../assets/Cards/Card3_00000.jpg'
 import { gsap } from "gsap";
 import { ScrollToPlugin } from "gsap/ScrollToPlugin";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
@@ -26,22 +29,22 @@ const Cards = () => {
 
     return (        
         <CardGroup>
-            <Card className="Group">
-                <Card.Img className="Group" variant="top" src="https://blog.ipleaders.in/wp-content/uploads/2020/04/default-lawyers-5.jpg" />
+            <Card className="Group" id="Card">
+                <Card.Img className="Group" variant="top" src={Store1} />
                 <Card.Body>
-                    <Card.Title className="Group">Abogado</Card.Title>
+                    <Card.Title className="Group">Tienda</Card.Title>
                     <Card.Text className="Group">
                         Servicios generales
                     </Card.Text>
                 </Card.Body>
                 <Card.Footer>
-                    <Button className="Group" href="https://bit.ly/Trabalhe_EmSuaCasa" style={{ height: '5rem', width: '5rem'}} variant="primary">Click</Button>
+                    <Button className="Group" style={{ height: '5rem', width: '5rem'}} variant="primary">Click</Button>
                 </Card.Footer>
             </Card>
             <Card className="Group">
-                <Card.Img className="Group" variant="top" src="https://armandpilon.com.uy/wp-content/uploads/2020/05/escribano-en-uruguay.jpg" />
+                <Card.Img className="Group" variant="top" src={Store2} />
                 <Card.Body>
-                        <Card.Title className="Group">Escribano</Card.Title>
+                        <Card.Title className="Group">Tienda2</Card.Title>
                     <Card.Text className="Group">
                             Servicios generales
                     </Card.Text>
@@ -51,9 +54,9 @@ const Cards = () => {
                 </Card.Footer>
             </Card>
             <Card className="Group">
-                <Card.Img className="Group" variant="top" src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/11/16/5fcc3e06c4dbf.jpeg" />
+                <Card.Img className="Group" variant="top" src={Store3} />
                 <Card.Body>
-                    <Card.Title className="Group">Dentista</Card.Title>
+                    <Card.Title className="Group">Tienda3</Card.Title>
                     <Card.Text className="Group">
                         Servicios generales
                     </Card.Text>

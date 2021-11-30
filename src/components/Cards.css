@@ -9,6 +9,7 @@ body {
     align-items: center;
     display: flex !important; 
     flex-wrap: wrap;
+    border-radius: 30px;
 }
 
 .card:hover {

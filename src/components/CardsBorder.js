@@ -1,5 +1,8 @@
 import React, { useEffect } from 'react'
 import { Card, Button, CardGroup} from 'react-bootstrap'
+import Abogado from '../assets/Cards/Card4_00000.jpg'
+import Escribano from '../assets/Cards/Card5_00000.jpg'
+import Dentista from '../assets/Cards/Card6_00000.jpg'
 import './CardsBorder.css'
 import { gsap } from "gsap";
 import { ScrollToPlugin } from "gsap/ScrollToPlugin";
@@ -26,7 +29,7 @@ const CardsBorder = () => {
     return (
         <CardGroup>
             <Card className="CardBorder">
-                <Card.Img className="CardBorder" variant="top" src="https://blog.ipleaders.in/wp-content/uploads/2020/04/default-lawyers-5.jpg" />
+                <Card.Img className="CardBorder" variant="top" src={Abogado} />
                 <Card.Body>
                     <Card.Title className="CardBorder">Abogado</Card.Title>
                     <Card.Text className="CardBorder">
@@ -38,7 +41,7 @@ const CardsBorder = () => {
                 </Card.Footer>
             </Card>
             <Card className="CardBorder">
-                <Card.Img className="CardBorder" variant="top" src="https://armandpilon.com.uy/wp-content/uploads/2020/05/escribano-en-uruguay.jpg" />
+                <Card.Img className="CardBorder" variant="top" src={Escribano} />
                 <Card.Body>
                         <Card.Title className="CardBorder">Escribano</Card.Title>
                     <Card.Text className="CardBorder">
@@ -50,7 +53,7 @@ const CardsBorder = () => {
                 </Card.Footer>
             </Card>
             <Card className="CardBorder">
-                <Card.Img className="CardBorder" variant="top" src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/11/16/5fcc3e06c4dbf.jpeg" />
+                <Card.Img className="CardBorder" variant="top" src={Dentista} />
                 <Card.Body>
                     <Card.Title className="CardBorder">Dentista</Card.Title>
                     <Card.Text className="CardBorder">

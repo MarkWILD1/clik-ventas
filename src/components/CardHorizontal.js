@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, Button} from 'react-bootstrap'
-import imgHorizontal from '../assets/horizontal.jpg'
+import imgHorizontal from '../assets/Comp 1/b2.jpg'
 import './CardHorizontal.css'
 
 
@@ -18,7 +18,6 @@ const CardHorizontal = () => {
                 </Card.Text>
                 <Button style={{ height: '5rem', width: '5rem', borderRadius: '50px',}} variant="primary">Click</Button>
             </Card.ImgOverlay>
-            <br />
             <br />
         </Card>
         

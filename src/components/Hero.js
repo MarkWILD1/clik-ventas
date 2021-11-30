@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import { Carousel } from 'react-bootstrap'
-import ej1 from '../assets/Comp 1/portada Facebook_00000.jpg'
+import { Button, Carousel } from 'react-bootstrap'
+import ej1 from '../assets/Comp 1/Banner22_00000.jpg'
 import ej2 from '../assets/Comp 1/2_00000.jpg'
 import ej3 from '../assets/Comp 1/3_00000.jpg'
 import { gsap } from 'gsap'
@@ -24,6 +24,9 @@ const Hero = () => {
                 src={ej1}
                 alt="First slide"
                 />
+                <Carousel.Caption>
+                <Button className="Group" style={{ height: '5rem', width: '5rem'}} variant="success">Click</Button>
+                </Carousel.Caption>
               {/*  <Carousel.Caption>
                     <h3>First slide label</h3>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
