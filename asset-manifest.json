@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.09a42db0.chunk.css",
-    "main.js": "/static/js/main.b5ac6f23.chunk.js",
-    "main.js.map": "/static/js/main.b5ac6f23.chunk.js.map",
+    "main.js": "/static/js/main.d45cea21.chunk.js",
+    "main.js.map": "/static/js/main.d45cea21.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc4ec7d0.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc4ec7d0.js.map",
     "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
@@ -26,13 +26,14 @@
     "static/media/duagencia.c525c683.jpg": "/static/media/duagencia.c525c683.jpg",
     "static/media/laportugalia.4fe17a2c.jpg": "/static/media/laportugalia.4fe17a2c.jpg",
     "static/media/logo-rivera_00000.bbfe7399.png": "/static/media/logo-rivera_00000.bbfe7399.png",
-    "static/media/logo2_00000.513ecd46.png": "/static/media/logo2_00000.513ecd46.png"
+    "static/media/logo2_00000.513ecd46.png": "/static/media/logo2_00000.513ecd46.png",
+    "static/media/whatsicon.45a68aee.png": "/static/media/whatsicon.45a68aee.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dc4ec7d0.js",
     "static/css/2.4659568d.chunk.css",
     "static/js/2.081c02b3.chunk.js",
     "static/css/main.09a42db0.chunk.css",
-    "static/js/main.b5ac6f23.chunk.js"
+    "static/js/main.d45cea21.chunk.js"
   ]
 }
