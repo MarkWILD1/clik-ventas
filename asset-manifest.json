@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c64f7268.chunk.css",
-    "main.js": "/static/js/main.f13d5880.chunk.js",
-    "main.js.map": "/static/js/main.f13d5880.chunk.js.map",
+    "main.js": "/static/js/main.0b980cd2.chunk.js",
+    "main.js.map": "/static/js/main.0b980cd2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3f4e8092.js",
     "runtime-main.js.map": "/static/js/runtime-main.3f4e8092.js.map",
     "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
@@ -29,6 +29,7 @@
     "static/media/laportugalia.4fe17a2c.jpg": "/static/media/laportugalia.4fe17a2c.jpg",
     "static/media/logo-rivera_00000.bbfe7399.png": "/static/media/logo-rivera_00000.bbfe7399.png",
     "static/media/logo2_00000.513ecd46.png": "/static/media/logo2_00000.513ecd46.png",
+    "static/media/rafa basce.43a25c7a.jpg": "/static/media/rafa basce.43a25c7a.jpg",
     "static/media/vazdefiesta.122832a1.jpg": "/static/media/vazdefiesta.122832a1.jpg"
   },
   "entrypoints": [
@@ -36,6 +37,6 @@
     "static/css/2.4659568d.chunk.css",
     "static/js/2.d1778624.chunk.js",
     "static/css/main.c64f7268.chunk.css",
-    "static/js/main.f13d5880.chunk.js"
+    "static/js/main.0b980cd2.chunk.js"
   ]
 }
