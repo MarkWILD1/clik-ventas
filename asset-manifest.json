@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c64f7268.chunk.css",
-    "main.js": "/static/js/main.bf2f471e.chunk.js",
-    "main.js.map": "/static/js/main.bf2f471e.chunk.js.map",
+    "main.js": "/static/js/main.da9168b2.chunk.js",
+    "main.js.map": "/static/js/main.da9168b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3f4e8092.js",
     "runtime-main.js.map": "/static/js/runtime-main.3f4e8092.js.map",
     "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
@@ -24,6 +24,7 @@
     "static/media/banner2_00000.0b78a8d2.jpg": "/static/media/banner2_00000.0b78a8d2.jpg",
     "static/media/duagencia.c525c683.jpg": "/static/media/duagencia.c525c683.jpg",
     "static/media/fmslide.a3cfa624.jpg": "/static/media/fmslide.a3cfa624.jpg",
+    "static/media/jota turismo logo.40632422.jpg": "/static/media/jota turismo logo.40632422.jpg",
     "static/media/kickboxing rivera.2d892236.jpg": "/static/media/kickboxing rivera.2d892236.jpg",
     "static/media/laportugalia.4fe17a2c.jpg": "/static/media/laportugalia.4fe17a2c.jpg",
     "static/media/logo-rivera_00000.bbfe7399.png": "/static/media/logo-rivera_00000.bbfe7399.png",
@@ -37,6 +38,6 @@
     "static/css/2.4659568d.chunk.css",
     "static/js/2.d1778624.chunk.js",
     "static/css/main.c64f7268.chunk.css",
-    "static/js/main.bf2f471e.chunk.js"
+    "static/js/main.da9168b2.chunk.js"
   ]
 }
